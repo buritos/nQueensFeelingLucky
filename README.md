@@ -6,8 +6,8 @@ This program uses a minimum conflicts approach to find a solution to the n queen
 
 ![min-conflicts solution to n queens](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/8queensminconflict.gif/440px-8queensminconflict.gif)
 
-[min-conflicts solution to 8 queens](https://en.wikipedia.org/wiki/Eight_queens_puzzle#/media/File:8queensminconflict.gif) by [Trixx](https://commons.wikimedia.org/wiki/User:Trixx) licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 
-
 A brute force solution to the n queens problem would be intractable for problems of n > 20, as 20! = 2433*10<sup>18</sup>. If the goal is to find a single solution the min-conflicts algorithm will usually find one in less than 50 steps on average, even for very large n values.
 
 The program was developed for the purpose of having fun while practicing algorithms.
+
+[image](https://en.wikipedia.org/wiki/Eight_queens_puzzle#/media/File:8queensminconflict.gif) by [Trixx](https://commons.wikimedia.org/wiki/User:Trixx) licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 
